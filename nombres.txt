@@ -1,8 +1,4 @@
 Texto para los nombres
 Jose Antonio
-<<<<<<< HEAD
 Sebastian Laines
-=======
->>>>>>> luis
 Luis Montero
-
